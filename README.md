@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Everything i.e., Programming**
 
-- 🤝 I’m looking for help with **AWS**
+- 🤝 I’m looking to collaborate with **Matlab Nerds**
 
 - 📫 How to reach me **ssablaise007@gmail.com**
 
